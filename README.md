@@ -1,6 +1,7 @@
 # Color Palette Generator
 
 A simple and beginner-friendly web app that generates beautiful, random color palettes with just one click. Built using vanilla HTML, CSS, and JavaScript in separate files for easy understanding and learning.
+
 ![Screenshot 2025-06-17 224655](https://github.com/user-attachments/assets/874af396-10fa-4d5c-a48f-e3f2b36c7cfb)
 
 🔗 [Live Demo]( https://tu-lasizzzz.github.io/Colourpalette/)
